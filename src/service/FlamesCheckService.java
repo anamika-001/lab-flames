@@ -9,7 +9,7 @@ public class FlamesCheckService{
 		int len2=str2.length();
 		
 
-	 for(int i=0;i<len1;i++)
+	     P: for(int i=0;i<len1;i++)//label
 		{
 			char a=str1.charAt(i);
 		
@@ -37,7 +37,7 @@ public class FlamesCheckService{
 		  String str4=new String();
 		  
 		  
-		  for(int i=0;i<5;i++){
+		     P: for(int i=0;i<5;i++){
 		    int c=-1,
 			d=0,
 			p=0;
